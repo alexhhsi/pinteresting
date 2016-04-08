@@ -23,6 +23,8 @@ gem 'devise', '~> 4.0.0.rc2'
 gem "paperclip", "~> 5.0.0.beta1"
 gem 'aws-sdk', '>= 2.0.34'
 gem 'masonry-rails'
+gem 'will_paginate', '~> 3.0.6'
+gem 'will_paginate-bootstrap'
 
 
 # Use ActiveModel has_secure_password
